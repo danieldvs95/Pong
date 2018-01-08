@@ -10,10 +10,12 @@ Developed with html5 and vanilla javascript.
 
 - P1
 
-  Up : W\n
+  Up : W
+
   Down : S
 
 - P2
 
-  Up : Up arrow\n
+  Up : Up arrow
+  
   Down : Down arrow
