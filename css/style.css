@@ -1,0 +1,62 @@
+html,body{
+  font-family: 'Open Sans', sans-serif;
+  margin:0;
+  padding:0;
+  background-color:black;
+}
+p{
+  margin:0;
+  padding:0;
+  display: inline-block;
+}
+.center{
+    text-align: center;
+}
+
+.enabled-button{
+  cursor: pointer;
+}
+
+.disabled-button{
+  cursor: default;
+}
+
+#title{
+  margin-top:20px;
+  margin-bottom:20px;
+  color:white;
+  font-size:30px;
+  font-weight:lighter;
+}
+
+#score1{
+  color:white;
+  font-size:30px;
+  font-weight:lighter;
+  margin-right:50px;
+  margin-bottom:10px;
+
+}
+
+#score2{
+  color:white;
+  font-size:30px;
+  font-weight:lighter;
+  margin-left:50px;
+  margin-bottom:10px;
+}
+
+#core{
+  border:1px solid white;
+}
+
+#game-button{
+  margin-top:30px;
+  border:none;
+  width:120px;
+  height:40px;
+  color:black;
+  background-color:white;
+  font-size:24px;
+  font-weight:lighter;
+}
